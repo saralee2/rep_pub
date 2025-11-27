@@ -1,0 +1,4 @@
+sample non-sensitive document
+
+
+this is a test document to test non-sensitive documents can be shared externally.

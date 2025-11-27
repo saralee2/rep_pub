@@ -1,0 +1,16 @@
+name	SSN	
+John Smith	098-76-5432
+Smith Joey	210-98-7654
+Debbi Bolton	321-09-8765
+Mike Summers	432-10-9876
+Corey Smiles	543-21-0987
+Blake Harris	654-32-1098
+
+Whitney Cloud
+Fawkes
+Bluebird
+Prisma
+Prisma Access
+Prisma Cloud
+
+    
